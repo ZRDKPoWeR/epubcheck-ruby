@@ -36,6 +36,22 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## History
 
+### v5.2.0.0
+
+* support EPUBCheck 5.2.0
+
+### v5.1.0.0
+
+* support EPUBCheck 5.1.0
+
+### v5.0.1.0
+
+* support EPUBCheck 5.0.1
+
+### v5.0.0.0
+
+* support EPUBCheck 5.0.0
+
 ### v4.2.6.0
 
 * support EPUBCheck 4.2.6
